@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-restoffapp-dev-517ce-authRole",
+      "UnauthRoleArn": "arn:aws:iam::682033507136:role/amplify-restoffapp-dev-517ce-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::682033507136:role/amplify-restoffapp-dev-517ce-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-restoffapp-dev-517ce-deployment",
+      "UnauthRoleName": "amplify-restoffapp-dev-517ce-unauthRole",
+      "StackName": "amplify-restoffapp-dev-517ce",
+      "StackId": "arn:aws:cloudformation:eu-north-1:682033507136:stack/amplify-restoffapp-dev-517ce/4c3cc0a0-e247-11ef-a155-0ecb4f4ff431",
+      "AmplifyAppId": "d1be0uy69r98iw"
+    },
+    "categories": {
+      "api": {
+        "restoffapp": {}
+      }
+    }
+  }
+}
