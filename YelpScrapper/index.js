@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // Replace 'YOUR_API_KEY' with your actual Yelp API key
-const apiKey = '4LoiD3uca6BWOspnLXCK5k1rpuOccBcnvi4HFY3rtHfcgJAhvDkKOFdgsqxyZgedgO4WUnt2v18NWN7d6rzPmzgonOHpcWnShrC1s3GupRbqsYqsU_66irKFOY2gZ3Yx';
+const apiKey = 'APIKEY';
 
 // Function to search for restaurants in Paris
 async function searchRestaurants() {
